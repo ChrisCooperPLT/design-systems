@@ -1,0 +1,14 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Button > should match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <button
+      class=""
+      id="test-button"
+    >
+      Click me!
+    </button>
+  </div>
+</DocumentFragment>
+`;
