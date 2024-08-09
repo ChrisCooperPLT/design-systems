@@ -17,6 +17,7 @@
     "paths": {
       "bhm-design-system": ["packages/bhm-design-system/src/index.ts"],
       "plt-design-system": ["packages/plt-design-system/src/index.ts"],
+      "shared/*": ["lib/shared/src/*"]
     }
   },
   "exclude": ["node_modules", "tmp"]
